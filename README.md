@@ -57,18 +57,4 @@ ai-chat-cli/
 ## License
 
 MIT
-```
-
----
-
-Structure:
-```
-ai-chat-cli/
-├── Program.cs
-├── Models.cs
-├── OpenAiClient.cs
-├── ChatSession.cs
-├── AiChat.csproj
-└── Tests/
-    ├── ChatSessionTests.cs
-    └── AiChat.Tests.csproj
+\\\
